@@ -1,0 +1,23 @@
+2760
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\li195\cf1\f0\fs20 LDA 6780h
+\par HLT\cf0 
+\par }
+<End Codes>
+20
+1| 6780| 46
+2| 2000| 25
+3| 6000| 00
+5| 1000| 30
+<End UserData>
+20
+1| 2760| 3A
+2| 2761| 80
+3| 2762| 67
+4| 2763| 76
+<End HexData>
+Starting Add. changed to 2760
+A<-Content of 6780H
+46H is entered at 6780H 
+<End Comment>

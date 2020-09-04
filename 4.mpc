@@ -1,0 +1,24 @@
+6720
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\li195\cf1\f0\fs20 LXI H 8105h\cf0 
+\par \cf1 MOV C M\cf0 
+\par HLT
+\par 
+\par }
+<End Codes>
+20
+1| 8105| 48
+<End UserData>
+20
+1| 6720| 21
+2| 6721| 05
+3| 6722| 81
+4| 6723| 4E
+5| 6724| 76
+<End HexData>
+Starting Add. changed to 6720
+H-L <- 8105 (loaded to pair)
+C<-M <- 48 (moved to reg. C)
+
+<End Comment>
